@@ -1,0 +1,19 @@
+introduce of akatski node 
+Akatsuki is a web app that lets users create and manage their tasks.
+
+Installation
+To install Akatsuki, you need to have Node.js and MongoDB installed on your system. You can download Node.js from https://nodejs.org/en/download/ and MongoDB from https://www.mongodb.com/try/download/community.
+
+To run Akatsuki, simply clone this repository and execute the following commands:
+
+npm install
+npm start
+Copy
+Usage
+Akatsuki allows users to add, edit, delete, and mark tasks as done. Users can also filter tasks by status or search for tasks by keywords.
+
+License
+Akatsuki is licensed under the MIT License. See the LICENSE file for more details.
+
+Contributing
+To contribute to Todo List, please fork this repository and create a pull request with your changes. For any issues or suggestions, please open an issue on GitHub or contact me at akatsuki@corp.com.
